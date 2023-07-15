@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mijailp
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...coding, AI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...building apps, learning code, ai 
 - 📫 How to reach me ...message me here
